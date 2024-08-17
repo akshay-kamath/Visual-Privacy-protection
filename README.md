@@ -100,16 +100,21 @@ GUI screenshot:
 ## Example
 
 
-Here’s an example of how the system works on a sample image:
+Here’s an example of how the system works on blurring a sample image:
 
-Original Image:
+Original Image: 
 
 ![image](https://github.com/user-attachments/assets/87efeeb3-51ab-4e90-895c-af84507c9edd)
 
 
 Anonymized Image:
 
-![image](https://github.com/user-attachments/assets/b98c72df-4228-4b7c-885e-cf744b60d55d)
+![image](https://github.com/user-attachments/assets/7d2d58f0-d305-494e-b6b9-0a99b22a21ab)
+
+For video: [option= pixelation]
+Original frame:
+
+Anonymized frame:
 
 
 
