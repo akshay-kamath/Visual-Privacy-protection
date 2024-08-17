@@ -50,6 +50,7 @@ pip install -r requirements.txt
 You can start the application with:
 ```bash
 python imageredactionwithblurringandpixelation.py
+```
 
 GUI screenshot:
 ![image](https://github.com/user-attachments/assets/08a17f59-c765-49c8-a4e4-485d0b98c758)
