@@ -1,4 +1,4 @@
-# Visual Privacy Protection Application
+# Visual Privacy Protection 
 
 This project is an AI-based system designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos. The system is designed to be robust and efficient for real-time applications.
 
@@ -85,7 +85,6 @@ GUI screenshot:
 
 ### Libraries:
 - **EasyOCR:** For text detection and extraction from images.
-- **Model** 
 - **spaCy:** For text analysis and PII identification.
 - **OpenCV:** For face detection and image processing (blurring and pixelation).
 - **PIL (Pillow):** For image handling and manipulation.
