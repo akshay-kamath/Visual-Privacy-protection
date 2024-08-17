@@ -42,7 +42,8 @@ This project is an AI-based system designed to protect visual privacy by anonymi
 
 This project uses Python and a set of specific libraries. Install the dependencies with the following command:
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
+```
 
 3. **Run the application:**
 
