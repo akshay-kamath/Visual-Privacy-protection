@@ -109,6 +109,7 @@ Original Image:
 
 Anonymized Image:
 
+![image](https://github.com/user-attachments/assets/b98c72df-4228-4b7c-885e-cf744b60d55d)
 
 
 
