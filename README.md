@@ -91,6 +91,17 @@ GUI screenshot:
 - **PIL (Pillow):** For image handling and manipulation.
 - **NumPy:** For numerical operations and handling image data.
 
+### Deep Learning Model:
+- **`prototxt` File:**  
+  This is a configuration file used by the Caffe deep learning framework to define the model architecture. The file specifies the structure of the neural network without the learned weights. It outlines details such as:
+  - Number and type of layers (e.g., convolutional, pooling layers)
+  - Connections between layers
+  - Other architectural parameters crucial to the design of the model.
+
+- **`.caffemodel` File:**  
+  This file contains the pre-trained weights for the face detection model. These weights were learned during training on a large dataset and are essential for the model to perform tasks like face detection effectively. By loading these weights, the model can generalize well to new images and videos, allowing for efficient real-time face detection.
+
+
 ### Applications:
 - **VSCode**, **PyCharm:** As the integrated development environment (IDE) for coding and testing.
 
@@ -111,10 +122,16 @@ Anonymized Image:
 
 ![image](https://github.com/user-attachments/assets/7d2d58f0-d305-494e-b6b9-0a99b22a21ab)
 
-For video: [option= pixelation]
-Original frame:
+For video: 
+[option= blurring]
 
-Anonymized frame:
+![image](https://github.com/user-attachments/assets/ea11b59e-b1f0-4e1b-98c4-69aa7f8eba7c)
+
+[option= pixelation]
+
+![image](https://github.com/user-attachments/assets/1da0410f-067b-4c68-81d9-5c5fb281fde4)
+
+
 
 
 
