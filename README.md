@@ -85,6 +85,7 @@ GUI screenshot:
 
 ### Libraries:
 - **EasyOCR:** For text detection and extraction from images.
+- **Model** 
 - **spaCy:** For text analysis and PII identification.
 - **OpenCV:** For face detection and image processing (blurring and pixelation).
 - **PIL (Pillow):** For image handling and manipulation.
@@ -103,11 +104,11 @@ Here’s an example of how the system works on a sample image:
 
 Original Image:
 
-<img src="![image](https://github.com/user-attachments/assets/53011744-1303-4655-8c8d-e48c4d7d8ad8)" alt="Original Image" width="400"/>
+![image](https://github.com/user-attachments/assets/87efeeb3-51ab-4e90-895c-af84507c9edd)
+
 
 Anonymized Image:
 
-![image](https://github.com/user-attachments/assets/4fe1dff3-48c0-4036-a979-3c37a495d797)
 
 
 
